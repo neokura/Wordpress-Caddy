@@ -1,4 +1,4 @@
-# Neokura — High-Traffic WordPress Stack (Mac mini M4)
+# High-Traffic WordPress Stack (Mac mini M4)
 
 Stack WordPress **optimisée pour un site média à très fort trafic**, hébergée sur **Mac mini M4**, avec **Cloudflare (plan gratuit)**, **Varnish**, **Caddy**, **Redis** et **Docker**.
 
